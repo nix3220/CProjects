@@ -71,7 +71,6 @@
 #define ss #undefine
 #define tt #ifnot
 #define uu #elifnot
-#define ww '
 #define xx true
 #define yy false
 #define zz NULL
